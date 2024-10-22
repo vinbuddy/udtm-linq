@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\HuynhTheVinh_2001210660_WordExcel.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\obj\Debug\HuynhTheVinh_2001210660_WordExcel.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\obj\Debug\HuynhTheVinh_2001210660_WordExcel.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\obj\Debug\HuynhTheVinh_2001210660_WordExcel.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\HuynhTheVinh_2001210660_WordExcel.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\HuynhTheVinh_2001210660_WordExcel.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.Compression.Base.dll
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.DocIO.Base.dll
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.OfficeChart.Base.dll
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.XlsIO.Base.dll
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.Compression.Base.xml
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.DocIO.Base.xml
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.OfficeChart.Base.xml
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\bin\Debug\Syncfusion.XlsIO.Base.xml
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\obj\Debug\HuynhTheVinh_2001210660_WordExcel.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\obj\Debug\HuynhTheVinh_2001210660_WordExcel.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\HuynhTheVinh_2001210660_WordExcel\HuynhTheVinh_2001210660_WordExcel\obj\Debug\HuynhTheVinh_2001210660_WordExcel.FormSV.resources
